@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KanishakRajput13
+- 🔭 I’m currently Studing in AKGEC
+- 👨‍💻 All of my projects are available at https://github.com/KanishakRajput13
+- 🌱 I’m currently learning C++, DSA
+- 📫 How to reach me kanishakrajput08@gmail.com
