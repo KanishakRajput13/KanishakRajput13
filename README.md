@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying in **AKGEC**
 
-- 🌱 I’m currently learning **JAVA, C++, DSA**
+- 🌱 I’m currently learning **KOTLIN, C++, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KanishakRajput13](https://github.com/KanishakRajput13)
 
